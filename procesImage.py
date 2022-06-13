@@ -160,7 +160,7 @@ def graficarShow(imagen):
 def main():
     #Mostrar su implementación aquí
     imagen1=Image(filename="C:\pdagit\pdarepo\mod4\EJERCITACIÓN\coronary1.jpg")  
-    #img=ajustarContraste(imagen1,3)   
+    img=ajustarContraste(imagen1,3)   
     #img = getHistograma(imagen1)
     #img = getChannels(imagen1,2)
     #img = ajustarGamma(imagen1,2)       
